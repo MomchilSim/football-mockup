@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MomchilHW1", "MomchilHW1.csproj", "{91E2DDEC-85E8-443C-BC0B-7B9B0B3AE86E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Positions", "Positions", "{C82685A9-2770-47AC-AD6D-D323729EB4E4}"
+	ProjectSection(SolutionItems) = preProject
+		DF.cs = DF.cs
+		FW.cs = FW.cs
+		GK.cs = GK.cs
+		MF.cs = MF.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MadeToInherit", "MadeToInherit", "{C2BD93CC-E109-49FE-8EDC-A000F4BC9389}"
+	ProjectSection(SolutionItems) = preProject
+		FootballPlayer.cs = FootballPlayer.cs
+		Person.cs = Person.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameRunners", "GameRunners", "{08970B6D-2A2F-4DEE-8D67-81886A475400}"
+	ProjectSection(SolutionItems) = preProject
+		Coach.cs = Coach.cs
+		Game.cs = Game.cs
+		Goal.cs = Goal.cs
+		Program.cs = Program.cs
+		Ref.cs = Ref.cs
+		Team.cs = Team.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E2DDEC-85E8-443C-BC0B-7B9B0B3AE86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2DDEC-85E8-443C-BC0B-7B9B0B3AE86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2DDEC-85E8-443C-BC0B-7B9B0B3AE86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2DDEC-85E8-443C-BC0B-7B9B0B3AE86E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C79E92-FCC2-40E9-B678-8489325A97FF}
+	EndGlobalSection
+EndGlobal

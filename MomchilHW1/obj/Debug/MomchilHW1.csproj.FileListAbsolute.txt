@@ -1,0 +1,8 @@
+C:\Users\momchil\source\repos\MomchilHW1\obj\Debug\MomchilHW1.csproj.AssemblyReference.cache
+C:\Users\momchil\source\repos\MomchilHW1\obj\Debug\MomchilHW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\momchil\source\repos\MomchilHW1\obj\Debug\MomchilHW1.csproj.CoreCompileInputs.cache
+C:\Users\momchil\source\repos\MomchilHW1\bin\Debug\MomchilHW1.exe.config
+C:\Users\momchil\source\repos\MomchilHW1\bin\Debug\MomchilHW1.exe
+C:\Users\momchil\source\repos\MomchilHW1\bin\Debug\MomchilHW1.pdb
+C:\Users\momchil\source\repos\MomchilHW1\obj\Debug\MomchilHW1.exe
+C:\Users\momchil\source\repos\MomchilHW1\obj\Debug\MomchilHW1.pdb
